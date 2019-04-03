@@ -1,0 +1,41 @@
+.optimisticbloglite-info-wrap .optimisticbloglite-section .dashicons {
+	margin-top: -4px;
+	vertical-align: middle;
+}
+
+.optimisticbloglite-info-wrap .nav-tab {
+	font-size: 16px;
+}
+
+.optimisticbloglite-info-wrap h1 {
+	font-size: 2em;
+}
+
+.optimisticbloglite-info-wrap h3 {
+	font-size: 1.2em;
+}
+
+.optimisticbloglite-info-wrap .optimisticbloglite-section-useful-plugins,
+.optimisticbloglite-info-wrap .optimisticbloglite-section-upgrade-to-pro,
+.optimisticbloglite-info-wrap .optimisticbloglite-section-demo-content {
+	margin-top: 50px;
+}
+
+.optimisticbloglite-info-wrap .tab-upgrade-to-pro {
+	background-color: #bf2424;
+	background-color: #159614;
+	color: #FFF;
+}
+
+.optimisticbloglite-info-wrap .quick-links a {
+	margin-right: 5px;
+}
+
+.optimisticbloglite-info-notice .btn-dismiss {
+	margin-left: 20px;
+}
+
+.optimisticbloglite-info-wrap .plugin-list {
+	list-style-position: inside;
+	list-style-type: disc;
+}

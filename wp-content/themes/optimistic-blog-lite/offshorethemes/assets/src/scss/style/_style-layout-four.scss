@@ -1,0 +1,227 @@
+/*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Framework @ Sniper Front-End 3 - https://github.com/h1dd3nsn1p3r/sniper-front-end
+
+# Package @ optimistic 
+
+# Author @ Sparkle Themes
+
+# Author url @ https://sparklewpthemes.com/
+
+# License GPL-V.2.0
+
+# Since 2017 December 
+
+# Version 1.1.1 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**/
+
+
+/*
+****************************************
+Style for layout four header
+****************************************
+*/
+
+.header-layout-four {
+    .general-header-inner {
+
+        .logo_and_advt_holder {
+
+            padding: 30px 0;
+        }
+        .site-info {
+
+            text-align: left;
+
+            .site-title {
+
+                font-size: 42px;
+                margin-bottom: 5px;
+            }
+
+        }
+
+        .main-nav-container {
+            background-color: $black;
+
+            .primary-menu-container {
+
+                .primary-menu>li>a {
+                    color: $white;
+                }
+            }
+        }
+    }
+
+    position: relative;
+    z-index: 1000000;
+
+
+
+    nav.layout-four {
+        margin-top: 20px !important;
+    }
+}
+
+.header-layout-four .is-sticky .fixed-nav {
+
+    background: $white;
+    -webkit-box-shadow: 0px 5px 15px 0px rgba(50, 50, 50, 0.2);
+    -moz-box-shadow: 0px 5px 15px 0px rgba(50, 50, 50, 0.2);
+    box-shadow: 0px 5px 15px 0px rgba(50, 50, 50, 0.2);
+}
+
+
+.header-layout-four .general-header-inner nav .blackbgnav {
+
+    background: $primary_bg_color !important;
+}
+
+.header-layout-four .general-header-inner nav .blackbgnav ul {
+
+    background: $primary_bg_color !important;
+    z-index: 100;
+}
+
+.header-layout-four .general-header-inner nav .blackbgnav .menu-toggle {
+
+    color: $white !important;
+}
+
+.header-layout-four .general-header-inner nav.layout-four #main-nav ul li ul {
+
+    background-color: $primary_bg_color;
+}
+
+
+.header-layout-four .general-header-inner nav.layout-four #main-nav ul li ul li a {
+
+    color: $white;
+}
+
+.header-layout-four .general-header-inner nav.layout-four #main-nav>ul>li>a:hover {
+
+    color: $secondary_color;
+}
+
+.header-layout-four .general-header-inner nav.layout-four #main-nav>ul>li>a {
+
+    text-transform: uppercase;
+    padding: 20px 15px;
+    color: $white !important;
+}
+
+.header-layout-four .general-header-inner nav.layout-four #main-nav {
+    text-align: center;
+}
+
+.header-layout-four .general-header-inner nav.layout-four .stellarnav.dark {
+
+    background: $primary_color;
+}
+
+.header-layout-four .general-header-inner nav.layout-four {
+
+    margin-top: 50px;
+}
+
+
+
+/*
+****************************************
+Style for banner area layout four
+****************************************
+*/
+
+.banner-style-four-container {
+
+    position: relative;
+    background: $white !important;
+}
+
+.banner-style-four-container .owl-next,
+.banner-style-four-container .owl-prev,
+.banner-style-four-box-width .owl-next,
+.banner-style-four-box-width .owl-prev {
+
+    position: absolute;
+    bottom: 45%;
+    background: $white !important;
+    width: 36px;
+    height: 36px;
+    border-radius: 100%;
+    color: $primary_color !important;
+    outline: none;
+    outline-style: none;
+}
+
+.banner-style-four-container .owl-next,
+.banner-style-four-box-width .owl-next {
+
+    right: 10px;
+}
+
+.banner-style-four-container .owl-prev,
+.banner-style-four-box-width .owl-prev {
+
+    left: 10px;
+}
+
+.banner-style-four-container .featured-content-title h2 {
+
+    font-size: 24px;
+}
+
+
+
+/*
+****************************************
+Style for post area layout four
+****************************************
+*/
+
+.home-layout-four-masonry .grid-item {
+    width: 50%;
+    padding:0 15px;
+    float: left;
+}
+
+.post-meta-category span {
+
+    padding-right: 5px;
+}
+
+.post-meta-category span:after {
+
+    content: ',';
+    display: inline-block;
+    padding-left: 2px;
+}
+
+.post-meta-category span:last-child:after {
+
+    content: '';
+}
+
+.home-layout-four-masonry,
+.home-layout-four-masonry-no-sidebar {
+    .masonry-grid {
+        margin-left: 15px;
+    }
+}
+
+.home-layout-four-masonry-no-sidebar .grid-item {
+
+    display: inline-block;
+    margin: 0 -2px;
+    margin-right: 3.5%;
+    width: 30%;
+}
+
+.main-post-area-wrapper .home-layout-four-masonry article .gallery-post:hover img {
+    transform: none;
+}

@@ -1,0 +1,916 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Optimistic Blog Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-04 10:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: functions.php:53
+msgid "Primary"
+msgstr ""
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:114
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:116 functions.php:136
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:124
+msgid "Header Advertisement Area"
+msgstr ""
+
+#: functions.php:126
+msgid "Add advertisement here."
+msgstr ""
+
+#: functions.php:134
+msgid "Footer"
+msgstr ""
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: 404.php:18
+msgid "Ooops, Page not found!"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"The page you are looking for either has moved or doesn't exists in this "
+"server.Try hitting search!"
+msgstr ""
+
+#. 1: title.
+#: comments.php:38
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:44
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment found"
+msgid_plural "%1$s comments found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr ""
+
+#: offshorethemes/hooks.php:236
+msgid "&laquo;"
+msgstr ""
+
+#: offshorethemes/hooks.php:237
+msgid "&raquo;"
+msgstr ""
+
+#: offshorethemes/hooks.php:317
+msgid "Copyright  &copy; "
+msgstr ""
+
+#: offshorethemes/hooks.php:321
+msgid "Offshorethemes"
+msgstr ""
+
+#: offshorethemes/filters.php:61
+msgid "Name"
+msgstr ""
+
+#: offshorethemes/filters.php:63
+msgid "Name *"
+msgstr ""
+
+#: offshorethemes/filters.php:68
+msgid "Email Address"
+msgstr ""
+
+#: offshorethemes/filters.php:70
+msgid "E-mail *"
+msgstr ""
+
+#: offshorethemes/filters.php:75 offshorethemes/filters.php:77
+msgid "Website"
+msgstr ""
+
+#: offshorethemes/filters.php:94
+msgid "comments__form"
+msgstr ""
+
+#: offshorethemes/filters.php:95
+msgid "Leave comment"
+msgstr ""
+
+#: offshorethemes/filters.php:98
+msgid ""
+"Your email address will not be published. Required fields are marked with *."
+msgstr ""
+
+#: offshorethemes/filters.php:100 offshorethemes/filters.php:102
+msgid "Express your thoughts *"
+msgstr ""
+
+#: offshorethemes/filters.php:105
+msgid "comments__form-submit"
+msgstr ""
+
+#: offshorethemes/filters.php:106
+msgid "Post A Comment"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: offshorethemes/theme-tags.php:15 offshorethemes/core/template-tags.php:15
+#: template-layouts/banner-layouts/banner-one.php:56
+#: template-layouts/banner-layouts/banner-two.php:58
+msgid " "
+msgstr ""
+
+#. 1: list of categories.
+#. 1: list of tags.
+#. 1: list of categories.
+#. 1: list of categories.
+#: offshorethemes/theme-tags.php:18 offshorethemes/theme-tags.php:34
+#: offshorethemes/core/template-tags.php:18
+#: offshorethemes/core/template-tags.php:34
+#: template-layouts/banner-layouts/banner-one.php:59
+#: template-layouts/banner-layouts/banner-two.php:61
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: offshorethemes/theme-tags.php:31 offshorethemes/core/template-tags.php:31
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: offshorethemes/theme-tags.php:48 offshorethemes/theme-tags.php:125
+#: offshorethemes/core/template-tags.php:48
+#: offshorethemes/core/template-tags.php:125
+msgid "No Comment"
+msgstr ""
+
+#. %s: number of comments
+#: offshorethemes/theme-tags.php:51 offshorethemes/core/template-tags.php:51
+#, php-format
+msgctxt "comments-no"
+msgid "%s Comment"
+msgstr ""
+
+#. %s: number of comments
+#: offshorethemes/theme-tags.php:54 offshorethemes/core/template-tags.php:54
+#, php-format
+msgctxt "comments-no"
+msgid "%s Comments"
+msgstr ""
+
+#. %s: post date.
+#: offshorethemes/theme-tags.php:112 offshorethemes/core/template-tags.php:112
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#. %s: post author.
+#: offshorethemes/theme-tags.php:118 offshorethemes/core/template-tags.php:118
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#. %d: number of comments
+#: offshorethemes/theme-tags.php:128 offshorethemes/core/template-tags.php:128
+#, php-format
+msgid "%d Comments."
+msgstr ""
+
+#: offshorethemes/theme-tags.php:130 offshorethemes/core/template-tags.php:130
+msgid "1 Comment"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: offshorethemes/helpers.php:28
+msgctxt "Vollkorn font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: offshorethemes/helpers.php:33
+msgctxt "Ruthie font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: offshorethemes/helpers.php:38
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: offshorethemes/helpers.php:43
+msgctxt "Spectral SC font: on or off"
+msgid "on"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:35
+#: template-parts/content-single/single-one.php:107
+#: template-parts/content-single/single-two.php:62
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:47
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content-related.php:73
+#: template-parts/content/content-three.php:18
+#: template-parts/content/content-two.php:19
+msgid "gallery-post"
+msgstr ""
+
+#: template-parts/content-related.php:73
+#: template-parts/content/content-three.php:18
+#: template-parts/content/content-two.php:19
+msgid "link-post"
+msgstr ""
+
+#: offshorethemes/customizer/customizer-controls.php:48
+msgid "Select"
+msgstr ""
+
+#: offshorethemes/customizer/options.php:9
+#: offshorethemes/admin/about-theme/info.php:74
+msgid "Theme Options"
+msgstr ""
+
+#: offshorethemes/customizer/options.php:10
+msgid "Optimistic Blog Customization Options"
+msgstr ""
+
+#: offshorethemes/customizer/options.php:15
+msgid "Fonts & Colors"
+msgstr ""
+
+#: offshorethemes/customizer/options.php:16
+msgid "Optimistic Blog Fonts & Colors Options"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: offshorethemes/third-party/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#. %s is the page number.
+#: offshorethemes/third-party/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: offshorethemes/third-party/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: offshorethemes/third-party/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:758
+#: offshorethemes/third-party/breadcrumbs.php:787
+#: offshorethemes/third-party/breadcrumbs.php:814
+#: offshorethemes/third-party/breadcrumbs.php:841
+#: offshorethemes/third-party/breadcrumbs.php:1180
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:759
+#: offshorethemes/third-party/breadcrumbs.php:815
+#: offshorethemes/third-party/breadcrumbs.php:1184
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:760
+#: offshorethemes/third-party/breadcrumbs.php:1188
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: offshorethemes/third-party/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: offshorethemes/meta-box/meta-box.php:11
+msgid "Display Layout Options"
+msgstr ""
+
+#: offshorethemes/meta-box/meta-box.php:27
+#: offshorethemes/customizer/options/option-others.php:43
+msgid "Left Sidebar"
+msgstr ""
+
+#: offshorethemes/meta-box/meta-box.php:33
+msgid "Right (Default)"
+msgstr ""
+
+#: offshorethemes/meta-box/meta-box.php:39
+msgid "Full width"
+msgstr ""
+
+#: offshorethemes/ocdi/ocdi.php:22
+msgid "Theme Demo Content"
+msgstr ""
+
+#: offshorethemes/tgm/tgm.php:19
+msgid "Contact Form 7"
+msgstr ""
+
+#: offshorethemes/tgm/tgm.php:25
+msgid "WooCommerce"
+msgstr ""
+
+#: offshorethemes/tgm/tgm.php:31 offshorethemes/admin/about-theme/info.php:85
+#: offshorethemes/admin/about-theme/info.php:131
+msgid "One Click Demo Import"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:19
+msgid "Displays short information of Author. Place it in \"Sidebar\""
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:22
+msgid "OBL: Author"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:166
+msgid "Author Page"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:173
+msgid "&mdash; Select Page &mdash;"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:180
+#: offshorethemes/customizer/options/option-links.php:25
+msgid "Facebook Link"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:187
+#: offshorethemes/customizer/options/option-links.php:37
+msgid "Twitter Link"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:194
+#: offshorethemes/customizer/options/option-links.php:49
+msgid "Instagram Link"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:201
+#: offshorethemes/customizer/options/option-links.php:61
+msgid "Youtube Link"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:208
+#: offshorethemes/customizer/options/option-links.php:73
+msgid "Snapchat Link"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:215
+msgid "Add Signature"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:228
+msgid "Upload"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:246
+msgid "Displays Social Links. Place it in \"Sidebar\""
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:249
+msgid "OBL: Social"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:270
+msgid "Facebook"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:282
+msgid "Twitter"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:294
+msgid "Google Plus"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:306
+msgid "Instagram"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:318
+msgid "Linked In"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:330
+msgid "Youtube"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:373
+#: offshorethemes/widgets/widgets.php:484
+#: offshorethemes/widgets/widgets.php:605
+msgid "Title"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:382
+msgid "Insert Links"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:402
+msgid "Displays posts based on number of comments. Place it in \"Sidebar\""
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:405
+msgid "OBL: Most Commented"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:491
+#: offshorethemes/widgets/widgets.php:612
+msgid "No of Popular Posts"
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:512
+msgid "Displays recent posts in slider. Place it in \"Sidebar\""
+msgstr ""
+
+#: offshorethemes/widgets/widgets.php:515
+msgid "OBL: Recent Posts"
+msgstr ""
+
+#: template-parts/content/content-one.php:98
+msgid "Continue Reading"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:13
+msgid "Banner Slider Settings"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:14
+msgid "Configurations for Banner Section. It is just below the menu."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:25
+msgid "Enable Banner"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:37
+msgid "Select Banner Width"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:41
+msgid "Full Width"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:42
+msgid "Box Width"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:53
+msgid "Select Banner Layout"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:57
+msgid "Banner One"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:58
+msgid "Banner Two"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:69
+msgid "Select Category For Banner"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:70
+msgid "Contents of the selected pages will be displayed on the banner"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:82
+msgid "Posts Number"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:83
+msgid "Numbers of posts to be displayed"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:95
+msgid "Display Post Categories"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:107
+msgid "Display Post Title"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-banner.php:119
+msgid "Display Post Date"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-others.php:13
+msgid "Home/Category/Search Page Layout"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-others.php:14
+msgid "Configurations for other"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-others.php:25
+msgid "Excerpt Length"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-others.php:26
+msgid "Select number of words to display in excerpt"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-others.php:39
+msgid "Sidebar Position"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-others.php:44
+msgid "Right Sidebar"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-header.php:13
+msgid "Header Settings"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-header.php:14
+msgid "Configure Theme Header Section"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-header.php:25
+msgid "Choose Header Layout"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-header.php:29
+msgid "Header Layout One"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-header.php:30
+msgid "Header Layout Two"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-header.php:41
+msgid "Enable Top Header"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-post.php:13
+msgid "Single Post Settings"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-post.php:14
+#: offshorethemes/customizer/options/option-home.php:14
+msgid "Configurations for home page posts."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-post.php:25
+msgid "Show Related Posts"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-post.php:37
+msgid "Numbers of Related Posts"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-archive.php:13
+msgid "Category Layout Settings"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-archive.php:14
+msgid "Configurations for archive page posts."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-archive.php:25
+#: offshorethemes/customizer/options/option-home.php:25
+msgid "Select Post Listing Layout"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-archive.php:29
+#: offshorethemes/customizer/options/option-home.php:29
+msgid "One Column List Layout"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-archive.php:30
+#: offshorethemes/customizer/options/option-home.php:30
+msgid "Two Columns List Layout"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-archive.php:31
+#: offshorethemes/customizer/options/option-home.php:31
+msgid "Masonry Grid Layout"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-links.php:13
+msgid "Socila Media Links"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-links.php:14
+msgid ""
+"Configure Theme Links Section. Social icons will be displayed only when "
+"valid social link is set."
+msgstr ""
+
+#: offshorethemes/customizer/options/option-footer.php:13
+msgid "Footer Settings"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-footer.php:14
+msgid "Configurations for footer"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-footer.php:25
+msgid "Coyright Text"
+msgstr ""
+
+#: offshorethemes/customizer/options/option-home.php:13
+msgid "HomePage Layout Settings"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:20
+#, php-format
+msgid ""
+"%1$s ia a clean, minimal and beautiful Free WordPress Theme. Optimistic Blog "
+"Lite design is reponsive and cross browser compatible. The theme is suitable "
+"to set up websites for blogs of different genre like, travel, fashion, music,"
+" sport, technology etc... The theme consists of different layouts which can "
+"be customized as users requirement"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:25
+msgid "Support"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:26
+msgid "Useful Plugins"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:27
+#: offshorethemes/admin/about-theme/info.php:83
+#: offshorethemes/admin/about-theme/info.php:86
+msgid "Demo Content"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:28
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:35
+msgid "Theme Details"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:40
+msgid "View Demo"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:45
+#: offshorethemes/admin/about-theme/info.php:67
+#: offshorethemes/admin/about-theme/info.php:108
+msgid "View Documentation"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:50
+msgid "Rate This Theme"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:55
+#: offshorethemes/admin/about-theme/info.php:137
+msgid "Buy Pro Themes"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:64
+#: offshorethemes/admin/about-theme/info.php:105
+msgid "Theme Documentation"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:66
+#: offshorethemes/admin/about-theme/info.php:107
+msgid ""
+"Please check our full documentation for detailed information on how to setup "
+"and customize the theme."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:76
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:77
+msgid "Customize"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:85
+#, php-format
+msgid ""
+"To import sample demo content, %1$s plugin should be installed and activated."
+" After plugin is activated, visit Import Demo Data menu under Appearance."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:96
+#: offshorethemes/admin/about-theme/info.php:99
+msgid "Contact Support"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:98
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to "
+"ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:114
+msgid "Child Theme"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:116
+msgid ""
+"For advanced theme customization, it is recommended to use child theme "
+"rather than modifying the theme file itself. Using this approach, you wont "
+"lose the customization after theme update."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:117
+msgid "Learn More"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:126
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable WooCommerce only if you are using e-commerce."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:131
+#, php-format
+msgid ""
+"To import demo content for this theme, %1$s plugin is needed. Please make "
+"sure plugin is installed and activated. After plugin is activated, you will "
+"see Import Demo Data menu under Appearance."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:136
+msgid ""
+"If you want more advanced features then you can upgrade to the premium "
+"version of the theme."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:121
+#: offshorethemes/admin/about-theme/class.info.php:122
+#, php-format
+msgid "%s Info"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:126
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best "
+"our theme can offer please make sure you visit theme info page."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:126
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:126
+msgid "Dismiss this notice"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:231
+#, php-format
+msgid "%s() method does not exist."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:340
+#: offshorethemes/admin/about-theme/class.info.php:381
+msgid "Manage Plugins"
+msgstr ""
+
+#. Name of the theme
+msgid "Optimistic Blog Lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Optimistic Blog Lite is a clean and modern design blog theme for personal "
+"blog writers who need to create personal blog website with simple creative "
+"features and effects to make feel the pleasure of reading blog posts and "
+"articles, Optimistic Blog Lite design is responsive and cross browser "
+"compatible. The theme is suitable to set up websites for blogs of different "
+"genre like, travel, fashion, music, sport, technology etc. Optimistic Blog "
+"Lite theme mixes between modern, classic and minimal styles and will help "
+"you create a simple and clean blog, if you are a blogger, then it’s a "
+"perfect choice for you if you don’t need to have any experiment to setup "
+"your Wordpress personal blog, it’s super simple and easy to setup, you will "
+"get high quality, responsive, well crafted blog out of the box to make "
+"writers only focuses on writing content, and it has great display layout "
+"home page, header layout, archive layout and single post display layout to "
+"make your fans and followers focus on every word you write."
+msgstr ""
+
+#. URI of the theme
+msgid "https://offshorethemes.com/wordpress-themes/optimistic-blog-lite/"
+msgstr ""
+
+#. Author of the theme
+msgid "offshorethemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://offshorethemes.com"
+msgstr ""
